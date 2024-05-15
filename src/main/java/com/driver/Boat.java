@@ -1,5 +1,8 @@
-import com.driver.*;
+package main.java.com.driver;
 
+/**
+ * InnerBoat
+ */
 public class Boat implements WaterVehicle{
     private String name;
     //private int currentSpeed = 0;
